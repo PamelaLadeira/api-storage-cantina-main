@@ -8,7 +8,7 @@
     }
   ],
   "pratos":[
-   [
+ 
   {
     "id_usuario":1,
     "id_prato":201,
@@ -67,8 +67,7 @@
       "bebida": "Suco de Laranja",
       "img": ["./img/almoço1.png", "./img/sucodelaranja.png"]
     }
-  }]
-],
+  }],
   "votacao": [
   {
     "id_voto": 1,
